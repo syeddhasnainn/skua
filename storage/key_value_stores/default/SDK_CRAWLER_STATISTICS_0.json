@@ -1,0 +1,50 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 408,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 3,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2024-09-12T22:44:40.371Z",
+  "crawlerFinishedAt": "2024-09-12T22:44:40.502Z",
+  "statsPersistedAt": "2024-09-12T22:44:40.502Z",
+  "crawlerRuntimeMillis": 147,
+  "crawlerLastStartTimestamp": 1726181080355,
+  "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 3,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 3,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {},
+  "errors": {
+    "rsc": {
+      "ENOENT": {
+        "Error": {
+          "ENOENT: no such file or directory, open '/Users/hasnain/Desktop/Projects/skua/.next/server/vendor-chunks/data_files/headers-order.json'": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "rsc": {
+      "ENOENT": {
+        "Error": {
+          "ENOENT: no such file or directory, open '/Users/hasnain/Desktop/Projects/skua/.next/server/vendor-chunks/data_files/headers-order.json'": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
+}
